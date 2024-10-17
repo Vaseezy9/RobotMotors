@@ -1,7 +1,6 @@
 # RobotMotors
 # This programm describes drone's motors, outputs quantity of motors, voltage, and doesnt allow to load carrige more than drone able
-# Line for testing changes in a new branch
-# Added comments for a code in a new branch
+
 
 # Для начала создал локальную директорию, создал в ней два файла _README.md_ и _drone_motors.py_, после инициальзировал новый Git репозиторий командой *git init*, командой _git add *_ отслеживаю файлы и делаю      репозиторий командой *git remote add origin <https://github.com/Vaseezy9/RobotMotors>* , и копирую на    удаленной репозиторий *git push -u origin main*. Создаю новую ветку для изменений *git checkout -b pullreq*,    для слияние веток команда *git merge*.
 
